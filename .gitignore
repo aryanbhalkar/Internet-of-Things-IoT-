@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node-RED
+node-red/node_modules/
+node-red/.config*.json
+node-red/.flows.json.backup
+node-red/.npmrc
+
+# Local generated data (keep folder via .gitkeep, ignore generated content)
+data/*.json
+data/*.txt
+!data/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
