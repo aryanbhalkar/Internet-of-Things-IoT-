@@ -1,0 +1,7 @@
+{"slotId":"S1","status":"occupied","timestamp":"2026-06-22T07:18:55.259458+00:00"}
+{"slotId":"S3","status":"occupied","timestamp":"2026-06-22T15:54:00.003555+00:00"}
+{"slotId":"S3","status":"free","timestamp":"2026-06-22T15:54:15.992375+00:00"}
+{"slotId":"S3","status":"occupied","timestamp":"2026-06-22T15:55:46.743003+00:00"}
+{"slotId":"S3","status":"free","timestamp":"2026-06-22T15:56:14.360945+00:00"}
+{"slotId":"S3","status":"occupied","timestamp":"2026-06-22T16:06:07.788485+00:00"}
+{"slotId":"S3","status":"free","timestamp":"2026-06-22T16:06:36.841274+00:00"}
